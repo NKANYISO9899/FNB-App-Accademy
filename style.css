@@ -1,0 +1,21 @@
+h1{
+    color: rgb(58, 58, 194);
+}
+h2{
+    color: rgb(49, 206, 49);
+}
+p{
+    color: rgb(177, 78, 177);
+}
+h1{
+    font-family: sans-serif;
+}
+p{
+    font-family: fantasy;
+}
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: upper-alpha;
+}
